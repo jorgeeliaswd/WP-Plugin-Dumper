@@ -3,7 +3,7 @@
  * Plugin Name: Plugin Dumper
  * Description: Gera e baixa arquivos ZIP dos plugins instalados diretamente pelo painel do WordPress.
  * Version: 1.0.0
- * Author: OpenAI
+ * Author: Jorge Elias
  * License: GPLv2 or later
  */
 
